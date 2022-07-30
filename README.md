@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Salah91271997
-- 👀 I’m interested in Web Develpment 
-- 🌱 I’m currently learning Front End Path
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Salah , I am a Frontend developer with React
+- 👀 I’m interested in Web Develpment
+- 🌱 I’m currently learning Next js and Node/Express
+- 💞️ I’m looking for a remote / onsite Full-time /part-time role as React developer
+- 📫 You can reach me here salahebrahim564@gmail.com
 
 <!---
 Salah91271997/Salah91271997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
